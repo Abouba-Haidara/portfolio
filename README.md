@@ -1,1 +1,1 @@
-My personal portfolio site to display my bio,Educactoion,  skills, and latest development projects..
+My personal portfolio site to display my bio, education,  skills, and latest development projects..
