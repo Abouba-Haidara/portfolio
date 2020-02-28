@@ -140,60 +140,43 @@
                             </div>
                             <div class="services-section">
                                 <div class="services-list owl-carousel">
-                                    <div class="item animate" data-animate="fadeInUp">
+                                   
+                                <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-bookmark" aria-hidden="true"></i></span>
-                                            <h3>Bootstrap Themes</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
+                                            <h3>Spring App</h3>
+                                            <p>Car Location system</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
                                             <h3>HTML5 Coding</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <p>Web site</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-desktop" aria-hidden="true"></i></span>
                                             <h3>Fully Responsive</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <p>Bootstrap CSS JS</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-mobile" aria-hidden="true"></i></span>
                                             <h3>Mobile Ready</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <p> Fariz IoT - Smart Agriculture </p>
                                         </div>
                                     </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-comments" aria-hidden="true"></i></span>
-                                            <h3>Fast Support</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
-                                        </div>
+                                    
                                     </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-database" aria-hidden="true"></i></span>
-                                            <h3>24-hour Up Time</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
-                                        </div>
-                                    </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-bell" aria-hidden="true"></i></span>
-                                            <h3>Instant Upgrades</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
-                                        </div>
-                                    </div>
+                                    
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-camera" aria-hidden="true"></i></span>
                                             <h3>Always Monitoring</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <p>App </p>
                                         </div>
                                     </div>
                                 </div>
