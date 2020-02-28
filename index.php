@@ -429,8 +429,8 @@
                     </div>
                 </div>
             </div>
-            
-            <div id="social-icons">
+        </div>
+        <div id="social-icons">
             <div class="text-right">
                 <ul class="social-icons">
                     <li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
@@ -440,9 +440,6 @@
                 </ul>
             </div>
         </div>
-
-        </div>
-
     <script src="js/jquery.js"></script>
 
     <script src="js/bootstrap.min.js"></script>
