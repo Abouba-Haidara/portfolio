@@ -57,7 +57,7 @@
                                     <li data-menuanchor="slide05"><a href="#slide05">My Work</a></li>
                                     <li data-menuanchor="slide06"><a href="#slide06">Blog</a></li>
                                     <li data-menuanchor="slide07"><a href="#slide07">Contact Me</a></li>
-                                    <li data-menuanchor="slide07"><a href="french.html">French</a></li>
+                                    <li><a href="#">French</a></li>
                                 </ul>
                             </div>
                         </nav>
