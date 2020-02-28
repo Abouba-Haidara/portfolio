@@ -445,7 +445,7 @@
                     <li><a href="https://web.facebook.com/aboubakarara" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                     <li><a href="https://twitter.com/Abouba7887" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/abouba-haidara-03b70a143/" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="https://www.instagram.com/aboubahaidara/" title="Instagram"><i class="fa fa-intagram"></i></a></li>
+                    <li><a href="https://www.instagram.com/aboubahaidara/" title="Instagram"><i class="fa fa-instagram"></i></a></li>
                     <li><a href="https://www.youtube.com/channel/UCQikQ-mXj7_7O2IxkhIEgpQ?view_as=subscriber" title="Youtube"><i class="fa fa-youtube"></i></a></li>
                 </ul>
             </div>
