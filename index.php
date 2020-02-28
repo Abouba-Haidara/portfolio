@@ -55,7 +55,7 @@
                                     <li data-menuanchor="slide03"><a href="#slide03">Services</a></li>
                                     <li data-menuanchor="slide04"><a href="#slide04">My Skills</a></li>
                                     <li data-menuanchor="slide05"><a href="#slide05">My Work</a></li>
-                                    <li data-menuanchor="slide06"><a href="#slide06">Testimonials</a></li>
+                                    <li data-menuanchor="slide06"><a href="#slide06">Blog</a></li>
                                     <li data-menuanchor="slide07"><a href="#slide07">Contact Me</a></li>
                                     <li data-menuanchor="slide07"><a href="french.html">French</a></li>
                                 </ul>
@@ -304,7 +304,7 @@
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-1.jpg" alt="">
+                                                <img src="images/item-1" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>templatemo is the best</h4>
@@ -315,7 +315,7 @@
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-2.jpg" alt="">
+                                                <img src="images/item-2." alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>templatemo is the best</h4>
@@ -368,7 +368,7 @@
                                         <div class="item animate" data-animate="fadeInUp">
                                             <div class="testimonial-item">
                                                 <div class="client-row">
-                                                    <img src="images/profile-01.jpg" class="rounded-circle" alt="profile 3">
+                                                    <img src="images/pro1.jpg" class="rounded-circle" alt="profile 3">
                                                 </div>
                                                 <div class="testimonial-content">
                                                     <h4>Marlar</h4>
