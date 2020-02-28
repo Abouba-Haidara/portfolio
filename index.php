@@ -215,23 +215,30 @@
                                 <div class="row">
                                     <div class="col-md-8 offset-md-2">   
                                         <div class="skill-item">
-                                            <h6>HTML CSS</h6>
-                                            <div class="skill-bar">
-                                                <span>70%</span>
-                                                <div class="filled-bar"></div>
-                                            </div>          
-                                        </div>
-                                        <div class="skill-item">
-                                            <h6>PSD Design</h6>
+                                            <h6>HTML CSS JS</h6>
                                             <div class="skill-bar">
                                                 <span>90%</span>
                                                 <div class="filled-bar-2"></div>
                                             </div>          
                                         </div>
                                         <div class="skill-item">
-                                            <h6>Social Media</h6>
+                                            <h6>Spring Boot</h6>
                                             <div class="skill-bar">
-                                                <span>70%</span>
+                                                <span>90%</span>
+                                                <div class="filled-bar-2"></div>
+                                            </div>          
+                                        </div>
+                                        <div class="skill-item">
+                                            <h6>PHP</h6>
+                                            <div class="skill-bar">
+                                                <span>80%</span>
+                                                <div class="filled-bar"></div>
+                                            </div>          
+                                        </div>
+                                        <div class="skill-item">
+                                            <h6>ASP.NET MVC</h6>
+                                            <div class="skill-bar">
+                                                <span>80%</span>
                                                 <div class="filled-bar"></div>
                                             </div>          
                                         </div>
@@ -257,39 +264,40 @@
                             <div class="title-block animate" data-animate="fadeInUp">
                                 <span>My Work</span>
                                 <h2>what i’ve done?</h2>
+                                <h2>Projects</h2>
                             </div>
                             <div class="gallery-section">
                                 <div class="gallery-list owl-carousel">
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-1.jpg" alt="">
+                                                <img src="images/vv" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
-                                                <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap CSS templates.</p>
+                                                <h4>Car location system</h4>
+                                                <p>Car location management system it is simple application to monitoring online the car</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-2.jpg" alt="">
+                                                <img src="images/.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
-                                                <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap themes.</p>
+                                                <h4>Fariz IoT</h4>
+                                                <p>Fariz App it is IoT Application to monitoring the farmer activities. it's smart agriculture application.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-3.jpg" alt="">
+                                                <img src="images/item-" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
-                                                <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap layouts.</p>
+                                                <h4>Acrinet</h4>
+                                                <p>Acrinet it is Mooc plateform to educate the student does'nt support for free.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -314,51 +322,7 @@
                                                 <p>Please tell your friends about it. Templatemo is the best website to download Bootstrap CSS templates.</p>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="portfolio-item">
-                                            <div class="thumb">
-                                                <img src="images/item-3.jpg" alt="">
-                                            </div>
-                                            <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
-                                                <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap templates.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="portfolio-item">
-                                            <div class="thumb">
-                                                <img src="images/item-1.jpg" alt="">
-                                            </div>
-                                            <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
-                                                <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap templates.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="portfolio-item">
-                                            <div class="thumb">
-                                                <img src="images/item-2.jpg" alt="">
-                                            </div>
-                                            <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
-                                                <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap templates.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="portfolio-item">
-                                            <div class="thumb">
-                                                <img src="images/item-3.jpg" alt="">
-                                            </div>
-                                            <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
-                                                <p>Please tell your friends about it. Templatemo is the best website to download free Bootstrap templates.</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    </div>   
                                 </div>
                             </div>
                         </div>
@@ -371,8 +335,8 @@
                     <div class="row justify-content-center">
                         <div class="col-md-8 wide-col-laptop">
                             <div class="title-block animate" data-animate="fadeInUp">
-                                <span>TESTIMONIALS</span>
-                                <h2>what THEY SAY?</h2>
+                                <span>Blog</span>
+                                <h2>What i write ?</h2>
                             </div>
                             <div class="col-md-8 offset-md-2">
                                 <div class="testimonials-section">
@@ -380,24 +344,24 @@
                                         <div class="item animate" data-animate="fadeInUp">
                                             <div class="testimonial-item">
                                                 <div class="client-row">
-                                                    <img src="images/profile-01.jpg" class="rounded-circle" alt="profile 1">
+                                                    <img src="images/profiler" class="rounded-circle" alt="profile 1">
                                                 </div>
                                                 <div class="testimonial-content">
                                                     <h4>Sandar</h4>
-                                                    <p>"Ut varius leo eu mauris lacinia, eleifend posuere urna gravida. Aenean a mattis lacus."</p>
-                                                    <span>Managing Director</span>
+                                                    <p>write....</p>
+                                                    <span>info...</span>
                                                 </div>                                           
                                             </div>
                                         </div>
                                         <div class="item animate" data-animate="fadeInUp">
                                             <div class="testimonial-item">
                                                 <div class="client-row">
-                                                    <img src="images/profile-01.jpg" class="rounded-circle" alt="profile 2">
+                                                    <img src="images/profile-" class="rounded-circle" alt="profile 2">
                                                 </div>
                                                 <div class="testimonial-content">
-                                                    <h4>Shinn</h4>
-                                                    <p>"Nam iaculis, leo nec facilisis sollicitudin, dui massa tempus odio, vitae malesuada ante elit vitae eros."</p>
-                                                    <span>CEO and Founder</span>
+                                                    <h4>Subjecct</h4>
+                                                    <p>write</p>
+                                                    <span>Me</span>
                                                 </div>                                           
                                             </div>
                                         </div>
@@ -408,8 +372,8 @@
                                                 </div>
                                                 <div class="testimonial-content">
                                                     <h4>Marlar</h4>
-                                                    <p>"Etiam efficitur, tortor facilisis finibus semper, diam magna fringilla lectus, et fringilla felis urna posuere tortor."</p>
-                                                    <span>Chief Marketing Officer</span>
+                                                    <p>Write</p>
+                                                    <span>Info mE</span>
                                                 </div>                                           
                                             </div>
                                         </div>
@@ -434,13 +398,13 @@
                                     <div class="col-md-6 animate" data-animate="fadeInUp">
                                         <div class="contact-box">
                                             <div class="contact-row">
-                                                <i class="fa fa-map-marker"></i> 123 New Street Here, Wonderful City 10220
+                                                <i class="fa fa-map-marker"></i> Street ng-80, Almadie / Ngor -  DK/ Senegal
                                             </div>
                                             <div class="contact-row">
-                                                <i class="fa fa-phone"></i> 090 080 0210
+                                                <i class="fa fa-phone"></i> 00221 777 540 819
                                             </div>
                                             <div class="contact-row">
-                                                <i class="fa fa-envelope"></i> info@company.co
+                                                <i class="fa fa-envelope"></i> aboubacrine7887@gmail.com
                                             </div>
                                         </div>
                                     </div>
@@ -465,7 +429,20 @@
                     </div>
                 </div>
             </div>
+            
+            <div id="social-icons">
+            <div class="text-right">
+                <ul class="social-icons">
+                    <li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="#" title="Instagram"><i class="fa fa-behance"></i></a></li>
+                </ul>
+            </div>
         </div>
+
+        </div>
+
     <script src="js/jquery.js"></script>
 
     <script src="js/bootstrap.min.js"></script>
