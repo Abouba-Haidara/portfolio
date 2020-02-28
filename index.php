@@ -215,21 +215,21 @@
                                 <div class="row">
                                     <div class="col-md-8 offset-md-2">   
                                         <div class="skill-item">
-                                            <h6>HTML CSS JS</h6>
+                                            <h6>HTML CSS JS (Angular / ReactJS)</h6>
                                             <div class="skill-bar">
                                                 <span>90%</span>
                                                 <div class="filled-bar-2"></div>
                                             </div>          
                                         </div>
                                         <div class="skill-item">
-                                            <h6>Spring Boot</h6>
+                                            <h6>Spring Boot - Spring Cloud</h6>
                                             <div class="skill-bar">
                                                 <span>90%</span>
                                                 <div class="filled-bar-2"></div>
                                             </div>          
                                         </div>
                                         <div class="skill-item">
-                                            <h6>PHP</h6>
+                                            <h6>PHP (Symfony / Laravel)</h6>
                                             <div class="skill-bar">
                                                 <span>80%</span>
                                                 <div class="filled-bar"></div>
@@ -239,6 +239,13 @@
                                             <h6>ASP.NET MVC</h6>
                                             <div class="skill-bar">
                                                 <span>80%</span>
+                                                <div class="filled-bar"></div>
+                                            </div>          
+                                        </div>
+                                        <div class="skill-item">
+                                            <h6>Others staff</h6>
+                                            <div class="skill-bar">
+                                                <span>50%</span>
                                                 <div class="filled-bar"></div>
                                             </div>          
                                         </div>
