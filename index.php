@@ -104,7 +104,7 @@
                                             <div class="facts-list owl-carousel">
                                                 <div class="item animate" data-animate="fadeInUp">
                                                     <div class="counter-box">
-                                                        <i class="fa fa-graduation-cap counter-icon" aria-hidden="true"></i><span class="count-number">5</span> Degrees
+                                                        <i class="fa fa-graduation-cap counter-icon" aria-hidden="true"></i><span class="count-number">5</span> Master Degrees
                                                     </div>
                                                 </div>
                                                 <div class="item animate" data-animate="fadeInUp">
