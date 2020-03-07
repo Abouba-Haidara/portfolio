@@ -96,8 +96,7 @@
                                                 <p>
                                                     I am passionate about building excellent software that improves the lives of those around me. 
                                                     I want to <strong>make things</strong> that <strong>make a difference</strong>.
-                                                    I’ve always sought out <strong>opportunities</strong> and <strong>challenges</strong> that are meaningful to me. 
-                                                    Although my professional path has taken many twists and turns.
+                                                    I’ve always sought out <strong>opportunities</strong> and <strong>challenges</strong> that are meaningful to me.
                                                 </p>
                                             </div>
                                             <div class="facts-list owl-carousel">
