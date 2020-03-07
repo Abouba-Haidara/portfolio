@@ -57,7 +57,7 @@
                                     <li data-menuanchor="slide05"><a href="#slide05">My Work</a></li>
                                     <li data-menuanchor="slide06"><a href="#slide06">Blog</a></li>
                                     <li data-menuanchor="slide07"><a href="#slide07">Contact Me</a></li>
-                                    <li><a href="#">French</a></li>
+                        
                                 </ul>
                             </div>
                         </nav>
@@ -303,7 +303,7 @@
                                                 <img src="images/item-3.png" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
+                                                <h4>Projet..</h4>
                                                 <p>Coming...</p>
                                             </div>
                                         </div>
@@ -314,7 +314,7 @@
                                                 <img src="images/item-2.png" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>templatemo is the best</h4>
+                                                <h4>Projet</h4>
                                                 <p>coming...</p>
                                             </div>
                                         </div>
