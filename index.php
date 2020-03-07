@@ -172,7 +172,7 @@
                                             <span class="service-icon"><i class="fa fa-mobile" aria-hidden="true"></i></span>
                                             <h3>Mobile </h3>
                                             <p>Android </p>
-                                            <p>B4A </p>
+                                            <p>Basic 4 Android </p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
