@@ -178,6 +178,13 @@
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
+                                            <h3>Security</h3>
+                                            <p>Application Audit</p>
+                                        </div>
+                                    </div>
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="service-box">
+                                            <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
                                             <h3>Deployment</h3>
                                             <p>Heroku </p>
                                         </div>
