@@ -179,7 +179,7 @@
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
                                             <h3>Deployment</h3>
-                                            <p>Heraku </p>
+                                            <p>Heroku </p>
                                         </div>
                                     </div>
                                 </div>
