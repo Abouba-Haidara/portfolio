@@ -278,7 +278,7 @@
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/" alt="">
+                                                <img src="images/item-2.png" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Car location system</h4>
@@ -300,7 +300,7 @@
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-" alt="">
+                                                <img src="images/item-3.png" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Acrinet</h4>
