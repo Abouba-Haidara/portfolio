@@ -153,10 +153,9 @@
                                             <span class="service-icon"><i class="fa fa-server" aria-hidden="true"></i></span>
                                             <h3>Server</h3>
                                             <p> Spring boot </p>
-                                            <p> NodeJS </p>
+                                            <p> NodeJS |Express  </p>
                                             <p> PHP </p>
-                                            <p> Express </p>
-                                            <p> .NET </p>
+                                            <p> ASP.NET MVC</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
