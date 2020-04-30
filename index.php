@@ -273,18 +273,7 @@
                                 <h2>Projects</h2>
                             </div>
                             <div class="gallery-section">
-                                <div class="gallery-list owl-carousel">
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="portfolio-item">
-                                            <div class="thumb">
-                                                <img src="images/item-1.jpg" alt="">
-                                            </div>
-                                            <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Fariz IoT</h4>
-                                                <p>Fariz App it is IoT Application to monitoring the farmer activities. it's smart agriculture application.</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                                <div class="gallery-list owl-carousel">                    
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
@@ -302,22 +291,33 @@
                                                 <img src="images/item-2.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Projet..</h4>
-                                                <p>Coming...</p>
+                                                <h4>Fariz IoT</h4>
+                                                <p>Acrinet it is Mooc plateform to educate the student does'nt support for free.</p>
                                             </div>
                                         </div>
                                     </div>
+                                     <div class="item animate" data-animate="fadeInUp">
+                                        <div class="portfolio-item">
+                                            <div class="thumb">
+                                                <img src="images/item-1.jpg" alt="">
+                                            </div>
+                                            <div class="thumb-inner animate" data-animate="fadeInUp">
+                                                <h4>Fariz IoT</h4>
+                                                <p>Fariz App it is IoT Application to monitoring the farmer activities. it's smart agriculture application.</p>
+                                            </div>
+                                        </div>
+                                    </div> 
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
                                                 <img src="images/item-1.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Projet</h4>
-                                                <p>coming...</p>
+                                                <h4>Fariz IoT</h4>
+                                                <p>Fariz App it is IoT Application to monitoring the farmer activities. it's smart agriculture application.</p>
                                             </div>
                                         </div>
-                                    </div>   
+                                    </div> 
                                 </div>
                             </div>
                         </div>
