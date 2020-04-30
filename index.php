@@ -112,8 +112,7 @@
                                                 </div>
                                                 <div class="item animate" data-animate="fadeInUp">
                                                     <div class="counter-box">
-                                                        <i class="fa fa-certificate counter-icon" aria-hidden="true"></i><span class="count-number">6</span> 
-                                                        <a href="">Certificates</a>
+                                                        <i class="fa fa-certificate counter-icon" aria-hidden="true"></i><span class="count-number"><a href="">6</a></span> Certificates
                                                     </div>
                                                 </div>
                                             </div>
