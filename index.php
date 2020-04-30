@@ -183,7 +183,7 @@
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
+                                            <span class="service-icon"><i class="fa fa-user-secret" aria-hidden="true"></i></span>
                                             <h3>Security</h3>
                                             <p>Application Audit</p>
                                         </div>
