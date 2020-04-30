@@ -77,7 +77,7 @@
                         <span class="welcome-first animate" data-animate="fadeInUp">Hi. I'm Aboubacrine Haidara, <br>welcome to</span>
                         <h1 class="welcome-title animate" data-animate="fadeInUp">My portfolio</h1>
                         <p class="animate" data-animate="fadeInUp">I'm a Software Engineer from  Dakar/Senegal.</p>
-                        <div class="scroll-down next-section animate data-animate="fadeInUp""><img src="images/mouse-scroll.png" alt=""><span>Scroll Down</span></div>
+                        <div class="scroll-down next-section animate" data-animate="fadeInUp"><img src="images/mouse-scroll.png" alt=""><span>Scroll Down</span></div>
                     </div>
                 </div>
             </div>
@@ -144,7 +144,7 @@
                                             <h3>Front End</h3>
                                             <p>HTML 5</p>
                                             <p>CSS3</p>
-                                            <p>JAVASCRIPT| ReactJS| Angular</p>
+                                            <p>JAVASCRIPT | ReactJS | Angular</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
@@ -177,15 +177,15 @@
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
-                                            <h3>Security</h3>
-                                            <p>Application Audit</p>
+                                            <h3>Deployment </h3>
+                                            <p>Oracle Cloud Infrastructure (OCI) </p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
-                                            <h3>Deployment</h3>
-                                            <p>Oracle Cloud Infrastructure</p>
+                                            <h3>Security</h3>
+                                            <p>Application Audit</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
