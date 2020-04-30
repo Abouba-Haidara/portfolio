@@ -8,7 +8,7 @@
     <meta name="author" content="Aboubacrine Haidara ; Abouba Haadara; ">
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900" rel="stylesheet">
 
-    <title>Aboubacrine Haidara</title>
+    <title>Aboubacrine M Haidara</title>
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -112,7 +112,8 @@
                                                 </div>
                                                 <div class="item animate" data-animate="fadeInUp">
                                                     <div class="counter-box">
-                                                        <i class="fa fa-certificate counter-icon" aria-hidden="true"></i><span class="count-number">2</span> Certificates
+                                                        <i class="fa fa-certificate counter-icon" aria-hidden="true"></i><span class="count-number">6</span> 
+                                                        <a href="">Certificates</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -179,6 +180,13 @@
                                             <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
                                             <h3>Security</h3>
                                             <p>Application Audit</p>
+                                        </div>
+                                    </div>
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="service-box">
+                                            <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
+                                            <h3>Deployment</h3>
+                                            <p>Oracle Cloud Infrastructure</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
