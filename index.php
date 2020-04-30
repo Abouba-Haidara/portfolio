@@ -150,10 +150,10 @@
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-server" aria-hidden="true"></i></span>
-                                            <h3>Server</h3>
+                                            <h3>Back end</h3>
                                             <p> Spring boot </p>
-                                            <p> NodeJS |Express  </p>
-                                            <p> PHP </p>
+                                            <p> NodeJS |  Express  </p>
+                                            <p> PHP | Laravel | Symfony | Slim 3</p>
                                             <p> ASP.NET MVC</p>
                                         </div>
                                     </div>
