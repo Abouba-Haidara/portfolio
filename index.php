@@ -163,7 +163,7 @@
                                             <h3>DATABASE</h3>
                                             <p>MySQL</p>
                                             <p>SQL Server</p>
-                                            <p>Mongodb</p>
+                                            <p>NoSQL Mongodb</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
