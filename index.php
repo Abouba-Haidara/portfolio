@@ -303,18 +303,18 @@
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Fariz IoT</h4>
-                                                <p>Fariz App it is IoT Application to monitoring the farmer activities. it's smart agriculture application.</p>
+                                                <p>Fariz-IoT Mobile Application, it is IoT Application to monitoring the farmer activities. it's smart agriculture application.</p>
                                             </div>
                                         </div>
                                     </div> 
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-1.jpg" alt="">
+                                                <img src="images/item-3.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Fariz IoT</h4>
-                                                <p>Fariz App it is IoT Application to monitoring the farmer activities. it's smart agriculture application.</p>
+                                                <p>Fariz-IoT WEB Application it is IoT Application to monitoring the farmer activities. it's smart agriculture application.</p>
                                             </div>
                                         </div>
                                     </div> 
