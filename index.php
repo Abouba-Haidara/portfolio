@@ -280,7 +280,7 @@
                                                 <img src="images/item-2.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Acrinet</h4>
+                                                <h4>YeminiCoder</h4>
                                                 <p>Acrinet it is Mooc plateform to educate the student does'nt support for free.</p>
                                             </div>
                                         </div>
@@ -291,7 +291,7 @@
                                                 <img src="images/item-4.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Fariz IoT</h4>
+                                                <h4>YeminiCoder</h4>
                                                 <p>Acrinet it is Mooc plateform to educate the student does'nt support for free.</p>
                                             </div>
                                         </div>
