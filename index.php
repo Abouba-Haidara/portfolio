@@ -288,7 +288,7 @@
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb box">
-                                                <img src="images/item-2.jpg" alt="">
+                                                <img src="images/item-2.png" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Fariz IoT</h4>
