@@ -265,7 +265,7 @@
                                             <h6>Others staff</h6>
                                             <div class="skill-bar">
                                                 <span>50%</span>
-                                                <div class="filled-bar"></div>
+                                                <div class="filled-bar-2"></div>
                                             </div>
                                         </div>
                                         <div class="skill-item last-skill">
