@@ -236,8 +236,8 @@
                                         <div class="skill-item">
                                             <h6>HTML CSS JS (Angular / ReactJS)</h6>
                                             <div class="skill-bar">
-                                                <span>20%</span>
-                                                <div class="filled-bar"></div>
+                                                <span>90%</span>
+                                                <div class="filled-bar-2"></div>
                                             </div>
                                         </div>
                                         <div class="skill-item">
