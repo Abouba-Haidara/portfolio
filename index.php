@@ -151,8 +151,8 @@
                             </div>
                             <div class="services-section">
                                 <div class="services-list owl-carousel">
-                                    <div class="item animate meter" data-animate="fadeInUp">
-                                        <div class="service-box progress">
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-globe"
                                                     aria-hidden="true"></i></span>
                                             <h3>Front End</h3>

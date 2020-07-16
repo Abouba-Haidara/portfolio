@@ -503,7 +503,32 @@
 		border-radius: 3px;
 		background-color: rgba(250, 250, 250, 0.25);
 		position: relative;
+		-webkit-animation: progressBar 3s ease-in-out;
+		-webkit-animation-fill-mode: both;
+		-moz-animation: progressBar 3s ease-in-out;
+		-moz-animation-fill-mode: both;
 	}
+
+	@-webkit-keyframes progressBar {
+		0% {
+			width: 0;
+		}
+
+		100% {
+			width: 100%;
+		}
+	}
+
+	@-moz-keyframes progressBar {
+		0% {
+			width: 0;
+		}
+
+		100% {
+			width: 100%;
+		}
+	}
+
 
 	.input-field {
 		margin-bottom: 15px;
@@ -512,6 +537,7 @@
 	.subscribe-row h5 {
 		font-size: 16px;
 	}
+
 
 	.client-row {
 		padding-left: 40px;
@@ -565,44 +591,4 @@ img {
 
 .box.small {
 	height: 100px;
-}
-
-.meter {
-	height: 5px;
-	position: relative;
-	background: #f3efe6;
-	overflow: hidden;
-}
-
-.meter span {
-	display: block;
-	height: 100%;
-}
-
-.progress {
-	background-color: #e4c465;
-	-webkit-animation: progressBar 3s ease-in-out;
-	-webkit-animation-fill-mode: both;
-	-moz-animation: progressBar 3s ease-in-out;
-	-moz-animation-fill-mode: both;
-}
-
-@-webkit-keyframes progressBar {
-	0% {
-		width: 0;
-	}
-
-	100% {
-		width: 100%;
-	}
-}
-
-@-moz-keyframes progressBar {
-	0% {
-		width: 0;
-	}
-
-	100% {
-		width: 100%;
-	}
 }
