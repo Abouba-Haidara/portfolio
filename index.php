@@ -130,10 +130,10 @@
                                                 <div class="item animate" data-animate="fadeInUp">
                                                     <div class="counter-box">
                                                         <i class="fa fa-certificate counter-icon"
-                                                            aria-hidden="true"></i><span class="count-number">View My
-                                                            Resume</span>
+                                                            aria-hidden="true"></i><span class="count-number">View
+                                                        </span>
                                                         <a href="https://drive.google.com/file/d/191-_vMCsNEV2GJaOu_bkjGl5YC1a03cS/view?usp=sharing"
-                                                            target="_blank"></a>
+                                                            target="_blank">My Resume</a>
                                                     </div>
                                                 </div>
                                             </div>
