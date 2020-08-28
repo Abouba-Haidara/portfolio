@@ -130,10 +130,11 @@
                                                 <div class="item animate" data-animate="fadeInUp">
                                                     <div class="counter-box">
                                                         <i class="fa fa-certificate counter-icon"
-                                                            aria-hidden="true"></i><span class="count-number">View
+                                                            aria-hidden="true"></i><span class="count-number">
+                                                            <a href="https://drive.google.com/file/d/191-_vMCsNEV2GJaOu_bkjGl5YC1a03cS/view?usp=sharing"
+                                                                target="_blank">View</a>
                                                         </span>
-                                                        <a href="https://drive.google.com/file/d/191-_vMCsNEV2GJaOu_bkjGl5YC1a03cS/view?usp=sharing"
-                                                            target="_blank">My Resume</a>
+                                                        My Resume
                                                     </div>
                                                 </div>
                                             </div>
@@ -188,7 +189,7 @@
                                             <h3>DATABASE</h3>
                                             <p>MySQL</p>
                                             <p>SQL Server</p>
-                                            <p>NoSQL Mongodb</p>
+                                            <p>NoSQL Mongodb | Firebase </p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
@@ -197,7 +198,7 @@
                                                     aria-hidden="true"></i></span>
                                             <h3>Mobile </h3>
                                             <p>Android </p>
-                                            <p>Basic 4 Android </p>
+                                            <p>Basic 4 Android (b4A) </p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
