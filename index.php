@@ -5,8 +5,8 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Aboubacrine Haidara ; Abouba Haadara;">
-    <meta name="author" content="Aboubacrine Haidara ; Abouba Haadara; ">
+    <meta name="description" content="Aboubacrine Haidara ; Haidara; Abouba Haidara;">
+    <meta name="author" content="Aboubacrine Haidara ; Haidara; Abouba Haadara; ">
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900" rel="stylesheet">
 
     <title>Aboubacrine M Haidara</title>
