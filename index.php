@@ -198,7 +198,7 @@
                                                     aria-hidden="true"></i></span>
                                             <h3>Mobile </h3>
                                             <p>Android </p>
-
+                                            <p>Basic 4 Android (BA4)</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
