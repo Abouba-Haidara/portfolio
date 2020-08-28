@@ -372,7 +372,7 @@
                                                     <img src="images/profiler" class="rounded-circle" alt="profile 1">
                                                 </div>
                                                 <div class="testimonial-content">
-                                                    <h4>Sandar</h4>
+                                                    <h4>Soon</h4>
                                                     <p>write....</p>
                                                     <span>info...</span>
                                                 </div>
@@ -384,7 +384,7 @@
                                                     <img src="images/profile-" class="rounded-circle" alt="profile 2">
                                                 </div>
                                                 <div class="testimonial-content">
-                                                    <h4>Subjecct</h4>
+                                                    <h4>Soon</h4>
                                                     <p>write</p>
                                                     <span>Me</span>
                                                 </div>
@@ -396,7 +396,7 @@
                                                     <img src="images/pro1.jpg" class="rounded-circle" alt="profile 3">
                                                 </div>
                                                 <div class="testimonial-content">
-                                                    <h4>Marlar</h4>
+                                                    <h4>Soon</h4>
                                                     <p>Write</p>
                                                     <span>Info mE</span>
                                                 </div>
