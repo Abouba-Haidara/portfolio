@@ -198,7 +198,7 @@
                                                     aria-hidden="true"></i></span>
                                             <h3>Mobile </h3>
                                             <p>Android </p>
-                                            <p>Basic 4 Android (b4A) </p>
+                                            <p>Netlify </p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
@@ -206,6 +206,8 @@
                                             <span class="service-icon"><i class="fa fa-cloud"
                                                     aria-hidden="true"></i></span>
                                             <h3>Deployment </h3>
+                                            <p>Oracle Cloud Infrastructure (OCI) </p>
+                                            <p>Heroku</p>
                                             <p>Oracle Cloud Infrastructure (OCI) </p>
                                         </div>
                                     </div>
