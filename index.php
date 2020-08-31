@@ -42,7 +42,7 @@
         <header id="header">
             <div class="container-fluid">
                 <div class="navbar">
-                    <a href="#" id="logo" title="Elegance by TemplateMo">
+                    <a href="#" id="logo" title="Haidara">
                         Haidara
                     </a>
                     <div class="navigation-row">
