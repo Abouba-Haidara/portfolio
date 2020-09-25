@@ -104,9 +104,7 @@
                                                     I’ve always sought out <strong>opportunities</strong> and
                                                     <strong>challenges</strong> that are meaningful to me.
                                                     I became a software engineer after doing 5 years of
-                                                    graduate studies in software engineering and computer security.
-                                                    I have a lot of experience in the field of development and this with
-                                                    several technologies
+                                                    graduate studies in computer science.
                                                 </p>
 
                                             </div>
