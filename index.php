@@ -366,45 +366,6 @@
                                         </div>
                                     </div>
 
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="portfolio-item">
-                                            <div class="thumb">
-                                                <img src="images/item-5.jpg" alt="">
-                                            </div>
-                                            <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Fariz IoT</h4>
-                                                <p>Fariz-IoT WEB Application it is IoT Application to monitoring the
-                                                    farmer activities. it's smart agriculture application.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="portfolio-item">
-                                            <div class="thumb">
-                                                <img src="images/item-6.jpg" alt="">
-                                            </div>
-                                            <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Fariz IoT</h4>
-                                                <p>Fariz-IoT WEB Application it is IoT Application to monitoring the
-                                                    farmer activities. it's smart agriculture application.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="portfolio-item">
-                                            <div class="thumb">
-                                                <img src="images/item-7.jpg" alt="">
-                                            </div>
-                                            <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Fariz IoT</h4>
-                                                <p>Fariz-IoT WEB Application it is IoT Application to monitoring the
-                                                    farmer activities. it's smart agriculture application.</p>
-                                            </div>
-                                        </div>
-                                    </div>
 
                                 </div>
                             </div>
