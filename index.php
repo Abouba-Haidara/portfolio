@@ -104,6 +104,13 @@
                                                     I’ve always sought out <strong>opportunities</strong> and
                                                     <strong>challenges</strong> that are meaningful to me.
                                                 </p>
+                                                <p>
+                                                    Passionate about new technologies, I became a software engineer
+                                                    after doing 5 years of
+                                                    graduate studies in software engineering and computer security.
+                                                    I have a lot of experience in the fieldof development and this with
+                                                    several technologies
+                                                </p>
                                             </div>
                                             <div class="facts-list owl-carousel">
                                                 <div class="item animate" data-animate="fadeInUp">
@@ -142,7 +149,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <figure class="about-img animate" data-animate="fadeInUp"><img
-                                                src="images/profile-girl.jpg" class="rounded" alt=""></figure>
+                                                src="images/profile.jpg" class="rounded" alt=""></figure>
                                     </div>
                                 </div>
                             </div>
@@ -326,7 +333,7 @@
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb box">
-                                                <img src="images/item-4.jpg" alt="">
+                                                <img src="images/item-3.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>YeminiCoder</h4>
@@ -339,7 +346,7 @@
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-3.jpg" alt="">
+                                                <img src="images/item-5.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Fariz IoT</h4>
@@ -348,6 +355,20 @@
                                             </div>
                                         </div>
                                     </div>
+
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="portfolio-item">
+                                            <div class="thumb">
+                                                <img src="images/item-4.jpg" alt="">
+                                            </div>
+                                            <div class="thumb-inner animate" data-animate="fadeInUp">
+                                                <h4>Fariz IoT</h4>
+                                                <p>Fariz-IoT WEB Application it is IoT Application to monitoring the
+                                                    farmer activities. it's smart agriculture application.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
