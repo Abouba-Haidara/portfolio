@@ -144,7 +144,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <br /><br />
+                                        <br /><br /><br /> <br />
                                         <figure class="about-img animate" data-animate="fadeInUp"><img
                                                 src="images/Profile.jpg" class="rounded" alt="absent"></figure>
                                     </div>
