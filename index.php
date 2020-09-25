@@ -171,7 +171,7 @@
                                                     aria-hidden="true"></i></span>
                                             <h3>Front End</h3>
                                             <p>HTML 5</p>
-                                            <p>CSS3</p>
+                                            <p>CSS3 | FlexBox | Material-UI | BootStrap</p>
                                             <p>JAVASCRIPT | ReactJS | Angular</p>
                                         </div>
                                     </div>
@@ -310,7 +310,6 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Yemin Coder</h4>
                                                 <p></p>
-                                                </p>
                                             </div>
                                         </div>
                                     </div>
