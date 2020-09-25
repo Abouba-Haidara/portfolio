@@ -308,9 +308,9 @@
                                                 <img src="images/item-1.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Fariz IoT</h4>
-                                                <p>Fariz-IoT Mobile Application, it is IoT Application to monitoring the
-                                                    farmer activities. it's smart agriculture application.</p>
+                                                <h4>Yemin Coder</h4>
+                                                <p></p>
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -322,8 +322,9 @@
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>YeminiCoder</h4>
-                                                <p>Acrinet it is Mooc plateform to educate the student does'nt support
-                                                    for free.</p>
+                                                <p>
+
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
