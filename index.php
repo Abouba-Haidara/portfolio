@@ -322,7 +322,7 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>YeminiCoder</h4>
                                                 <p>
-
+                                                    It's E-learning application.
                                                 </p>
                                             </div>
                                         </div>
@@ -334,8 +334,9 @@
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>YeminiCoder</h4>
-                                                <p>Acrinet it is Mooc plateform to educate the student does'nt support
-                                                    for free.</p>
+                                                <p>YeminiCoder it is E-learning plateform to educate the student does'nt support
+                                                    for free.
+                                                 </p>
                                             </div>
                                         </div>
                                     </div>
