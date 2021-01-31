@@ -324,6 +324,10 @@
                                                 <p>
                                                     It's Roommate Plateforme application for student.
                                                 </p>
+                                                 <h4>YeminiCoder</h4>
+                                                <p>YeminiCoder it is E-learning plateform to educate the student does'nt support
+                                                    for free.
+                                                 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -333,10 +337,11 @@
                                                 <img src="images/item-3.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>YeminiCoder</h4>
-                                                <p>YeminiCoder it is E-learning plateform to educate the student does'nt support
-                                                    for free.
-                                                 </p>
+                                            
+                                                  <h4>Fariz IoT</h4>
+                                                <p>Fariz-IoT WEB Application it is IoT Application to monitoring the
+                                                    farmer activities. it's smart agriculture application.</p>
+                                                       
                                             </div>
                                         </div>
                                     </div>
@@ -347,9 +352,10 @@
                                                 <img src="images/item-4.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Fariz IoT</h4>
-                                                <p>Fariz-IoT WEB Application it is IoT Application to monitoring the
-                                                    farmer activities. it's smart agriculture application.</p>
+                                                <h4>Halan-AI</h4>
+                                                <p>Halan-ai WEB Application it is voice search news using Alan AI SDK.</p>
+                                                 <a class="btn btn-sm" target="_blanc" href="https://halan-ai.web.app/">See Demo</a>
+                                            
                                             </div>
                                         </div>
                                     </div>
@@ -360,10 +366,9 @@
                                                 <img src="images/item-5.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Halan-AI</h4>
-                                                <p>Halan-ai WEB Application it is voice search news using Alan AI SDK.</p>
-                                                 <a class="btn btn-sm" target="_blanc" href="https://halan-ai.web.app/">See Demo</a>
-                                            </div>
+                                          
+                                          ---
+                                           </div>
                                         </div>
                                     </div>
 
