@@ -308,8 +308,11 @@
                                                 <img src="images/item-1.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Yemin Coder</h4>
-                                                <p></p>
+                                                <h4>YeminCoder</h4>
+                                                <p>
+                                                YeminiCoder it is E-learning plateform to educate the student does'nt support
+                                                    for free.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -320,9 +323,9 @@
                                                 <img src="images/item-2.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                 <h4>YeminiCoder</h4>
-                                                <p>YeminiCoder it is E-learning plateform to educate the student does'nt support
-                                                    for free.
+                                                 <h4>Vivito</h4> 
+                                                 <p>
+                                                 Vivito, it is Searching Roommate plateforme for student.
                                                  </p>
                                             </div>
                                         </div>
@@ -335,8 +338,7 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">                                           
                                                   <h4>Fariz IoT</h4>
                                                 <p>Fariz-IoT WEB Application it is IoT Application to monitoring the
-                                                    farmer activities. it's smart agriculture application.</p>
-                                                       
+                                                    farmer activities. it's smart agriculture application.</p>                                                      
                                             </div>
                                         </div>
                                     </div>
@@ -348,9 +350,9 @@
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Halan-AI</h4>
-                                                <p>Halan-ai WEB Application it is voice search news using Alan AI SDK.</p>
-                                                 <a class="btn btn-sm" target="_blanc" href="https://halan-ai.web.app/">See Demo</a>
-                                            
+                                                <p>Halan-ai WEB Application it is voice search news using Alan AI SDK. <br /> 
+                                                  <a class="btn btn-sm" target="_blanc" href="https://halan-ai.web.app/">See Demo</a>    
+                                                </p>                                     
                                             </div>
                                         </div>
                                     </div>
