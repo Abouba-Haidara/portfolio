@@ -360,9 +360,8 @@
                                                 <img src="images/item-5.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Fariz IoT</h4>
-                                                <p>Fariz-IoT WEB Application it is IoT Application to monitoring the
-                                                    farmer activities. it's smart agriculture application.</p>
+                                                <h4>Halan-AI</h4>
+                                                <p>Halan-ai WEB Application it is voice search news using Alan AI SDK.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -404,21 +403,9 @@
                                                     <img src="images/profile-" class="rounded-circle" alt="profile 2">
                                                 </div>
                                                 <div class="testimonial-content">
-                                                    <h4>Soon</h4>
-                                                    <p>write</p>
-                                                    <span>Me</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item animate" data-animate="fadeInUp">
-                                            <div class="testimonial-item">
-                                                <div class="client-row">
-                                                    <img src="images/pro1.jpg" class="rounded-circle" alt="profile 3">
-                                                </div>
-                                                <div class="testimonial-content">
-                                                    <h4>Soon</h4>
+                                                    <h4>Soon...</h4>
                                                     <p>Write</p>
-                                                    <span>Info mE</span>
+                                                    <span>Working on...</span>
                                                 </div>
                                             </div>
                                         </div>
