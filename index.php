@@ -320,9 +320,9 @@
                                                 <img src="images/item-2.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>YeminiCoder</h4>
+                                                <h4>Vivito</h4>
                                                 <p>
-                                                    It's E-learning application.
+                                                    It's Roommate Plateforme application for student.
                                                 </p>
                                             </div>
                                         </div>
