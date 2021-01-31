@@ -393,7 +393,7 @@
                                         <div class="item animate" data-animate="fadeInUp">
                                             <div class="testimonial-item">
                                                 <div class="client-row">
-                                                    <img src="images/profiler" class="rounded-circle" alt="profile 1">
+                                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWU8M739rK4xasc_VM2SdcMLDxDCKtY93jw&usqp=CAUr" class="rounded-circle" alt="profile 1">
                                                 </div>
                                                 <div class="testimonial-content">
                                                     <h4>Soon</h4>
