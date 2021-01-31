@@ -468,6 +468,8 @@
                             </div>
                         </div>
                     </div>
+                    <span>Opening for Job</span>
+                    <h2 class="text-danger"><strong>Hire me!</strong></h2>
                 </div>
             </div>
         </div>
