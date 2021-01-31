@@ -320,10 +320,6 @@
                                                 <img src="images/item-2.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Vivito</h4>
-                                                <p>
-                                                    It's Roommate Plateforme application for student.
-                                                </p>
                                                  <h4>YeminiCoder</h4>
                                                 <p>YeminiCoder it is E-learning plateform to educate the student does'nt support
                                                     for free.
@@ -336,8 +332,7 @@
                                             <div class="thumb box">
                                                 <img src="images/item-3.jpg" alt="">
                                             </div>
-                                            <div class="thumb-inner animate" data-animate="fadeInUp">
-                                            
+                                            <div class="thumb-inner animate" data-animate="fadeInUp">                                           
                                                   <h4>Fariz IoT</h4>
                                                 <p>Fariz-IoT WEB Application it is IoT Application to monitoring the
                                                     farmer activities. it's smart agriculture application.</p>
@@ -366,8 +361,10 @@
                                                 <img src="images/item-5.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                          
-                                          ---
+                                           <h4>Covid-19</h4>
+                                                <p>
+                                                 Covid-19 Tracking App using disease sh API With reactJS AND Material-UI, Maps
+                                                 </p>
                                            </div>
                                         </div>
                                     </div>
