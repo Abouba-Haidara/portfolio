@@ -362,6 +362,7 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Halan-AI</h4>
                                                 <p>Halan-ai WEB Application it is voice search news using Alan AI SDK.</p>
+                                                 <a class="btn btn-sm" target="_blanc" href="https://halan-ai.web.app/">See Demo</a>
                                             </div>
                                         </div>
                                     </div>
