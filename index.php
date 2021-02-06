@@ -325,7 +325,7 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                  <h4>Vivito</h4> 
                                                  <p>
-                                                 Vivito, it is Searching Roommate plateforme for student.
+                                                   Vivito, it is Searching Roommate plateforme for student.
                                                  </p>
                                             </div>
                                         </div>
@@ -337,7 +337,7 @@
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">                                           
                                                   <h4>Fariz IoT</h4>
-                                                <p>Fariz-IoT WEB Application it is IoT Application to monitoring the
+                                                   <p> Fariz-IoT WEB And Mobile Application it is IoT Application to monitoring the
                                                     farmer activities. it's smart agriculture application.</p>                                                      
                                             </div>
                                         </div>
@@ -370,8 +370,6 @@
                                            </div>
                                         </div>
                                     </div>
-
-
                                 </div>
                             </div>
                         </div>
@@ -439,7 +437,7 @@
                                                 Senegal
                                             </div>
                                             <div class="contact-row">
-                                                <i class="fa fa-phone"></i> 00221 777 540 819
+                                                <i class="fa fa-phone"></i> +221 777 540 819
                                             </div>
                                             <div class="contact-row">
                                                 <i class="fa fa-envelope"></i> aboubacrine7887@gmail.com
