@@ -388,15 +388,11 @@
                             </div>
                             <div class="gallery-section">
                                 <dl>
-                                    <dt>
-                                       Intership
-                                    </dt>
+                                    <dt>IT Consultant Internship </dt>
                                     <dd>
-                                        <ul>
-                                          <li>Grant Thorton Technologies</li>
-                                          <li>12 Decembre 2019 - now</li>
-                                         </ul>
-                                      </dd>
+                                        <p>Grant Thorton Technologies</p>
+                                        <p>12 Decembre 2019 - now</p>
+                                    </dd>
                                 </dl>
                              </div>
                         </div>
