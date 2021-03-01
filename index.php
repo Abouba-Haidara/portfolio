@@ -387,7 +387,17 @@
                                 <h2>Work</h2>
                             </div>
                             <div class="gallery-section">
-                                00
+                                <dl>
+                                    <dt>
+                                       Intership
+                                    </dt>
+                                    <dd>
+                                        <ul>
+                                          <li>Grant Thorton Technologies</li>
+                                          <li>12 Decembre 2019 - now</li>
+                                         </ul>
+                                      </dd>
+                                </dl>
                              </div>
                         </div>
                     </div>
