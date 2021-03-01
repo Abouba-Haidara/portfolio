@@ -54,9 +54,9 @@
                                     <li data-menuanchor="slide02"><a href="#slide02">About Me</a></li>
                                     <li data-menuanchor="slide03"><a href="#slide03">Services</a></li>
                                     <li data-menuanchor="slide04"><a href="#slide04">My Skills</a></li>
-                                    <li data-menuanchor="slide05"><a href="#slide05">My Work</a></li>
-                                    <li data-menuanchor="slide06"><a href="#slide06">Blog</a></li>
+                                    <li data-menuanchor="slide05"><a href="#slide05">My Work</a></li>        
                                     <li data-menuanchor="slide07"><a href="#slide07">Work Experiences</a></li>
+                                     <li data-menuanchor="slide06"><a href="#slide06">Blog</a></li>
                                     <li data-menuanchor="slide08"><a href="#slide07">Contact Me</a></li>
 
                                 </ul>
