@@ -299,6 +299,7 @@
                                 <span>My Work</span>
                                 <h2>what i’ve done?</h2>
                                 <h2>Projects</h2>
+                                <h3>Web Application</h3>
                             </div>
                             <div class="gallery-section">
                                 <div class="gallery-list owl-carousel">
