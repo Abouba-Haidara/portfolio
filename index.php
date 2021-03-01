@@ -377,6 +377,92 @@
                     </div>
                 </div>
             </div>
+            <div class="section animated-row" data-section="slide06">
+                <div class="section-inner">
+                    <div class="row justify-content-center">
+                        <div class="col-md-8 wide-col-laptop">
+                            <div class="title-block animate" data-animate="fadeInUp">
+                                <span>My Work</span>
+                                <h2>what i’ve done?</h2>
+                                <h2>Projects</h2>
+                                <h3>Web Application</h3>
+                            </div>
+                            <div class="gallery-section">
+                                <div class="gallery-list owl-carousel">
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="portfolio-item">
+                                            <div class="thumb box">
+                                                <img src="images/item-1.jpg" alt="">
+                                            </div>
+                                            <div class="thumb-inner animate" data-animate="fadeInUp">
+                                                <h4>YeminCoder</h4>
+                                                <p>
+                                                YeminiCoder it is E-learning plateform to educate the student does'nt support
+                                                    for free.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="portfolio-item">
+                                            <div class="thumb box">
+                                                <img src="images/item-2.jpg" alt="">
+                                            </div>
+                                            <div class="thumb-inner animate" data-animate="fadeInUp">
+                                                 <h4>Vivito</h4> 
+                                                 <p>
+                                                   Vivito, it is Searching Roommate plateforme for student.
+                                                 </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="portfolio-item">
+                                            <div class="thumb box">
+                                                <img src="images/item-3.jpg" alt="">
+                                            </div>
+                                            <div class="thumb-inner animate" data-animate="fadeInUp">                                           
+                                                  <h4>Fariz IoT</h4>
+                                                   <p> Fariz-IoT WEB And Mobile Application it is IoT Application to monitoring the
+                                                    farmer activities. it's smart agriculture application.</p>                                                      
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="portfolio-item">
+                                            <div class="thumb">
+                                                <img src="images/item-4.jpg" alt="">
+                                            </div>
+                                            <div class="thumb-inner animate" data-animate="fadeInUp">
+                                                <h4>Halan-AI</h4>
+                                                <p>Halan-ai WEB Application it is voice search news using Alan AI SDK. <br /> 
+                                                  <a class="btn btn-sm" target="_blanc" href="https://halan-ai.web.app/">See Demo</a>    
+                                                </p>                                     
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="portfolio-item">
+                                            <div class="thumb">
+                                                <img src="images/item-5.jpg" alt="">
+                                            </div>
+                                            <div class="thumb-inner animate" data-animate="fadeInUp">
+                                           <h4>Covid-19</h4>
+                                                <p>
+                                                 Covid-19 Tracking App using disease sh API With reactJS AND Material-UI, Maps
+                                                 </p>
+                                           </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             <div class="section animated-row" data-section="slide05">
                 <div class="section-inner">
