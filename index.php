@@ -383,8 +383,8 @@
                     <div class="row justify-content-center">
                         <div class="col-md-8 wide-col-laptop">
                             <div class="title-block animate" data-animate="fadeInUp">
-                                <span>Work Experience</span>
-                                <h2>Work</h2>
+                                <span>Work </span>
+                                <h2>Work Experience</h2>
                             </div>
                             <div class="gallery-section">
                                 <dl>
