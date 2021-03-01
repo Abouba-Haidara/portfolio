@@ -389,7 +389,6 @@
                             <div class="gallery-section">
                                 00
                              </div>
-                            </div>
                         </div>
                     </div>
                 </div>
