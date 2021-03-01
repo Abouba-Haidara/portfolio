@@ -378,7 +378,7 @@
                     </div>
                 </div>
             </div>
-            <div class="section animated-row" data-section="slide07">
+            <div class="section animated-row" data-section="slide06">
                 <div class="section-inner">
                     <div class="row justify-content-center">
                         <div class="col-md-8 wide-col-laptop">
@@ -401,7 +401,7 @@
                     </div>
                 </div>
             </div>
-            <div class="section animated-row" data-section="slide06">
+            <div class="section animated-row" data-section="slide07">
                 <div class="section-inner">
                     <div class="row justify-content-center">
                         <div class="col-md-8 wide-col-laptop">
@@ -443,8 +443,6 @@
                     </div>
                 </div>
             </div>
-            
-
             <div class="section animated-row" data-section="slide08">
                 <div class="section-inner">
                     <div class="row justify-content-center">
