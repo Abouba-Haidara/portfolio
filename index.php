@@ -417,6 +417,16 @@
                                         </p>
                                     </dd>
                                 </dl>
+                                   <dl>
+                                    <dt><strong>Hackathon</strong></dt>
+                                    <dd>
+                                        <p>
+                                         <span>SOS SAHEL - AFRICADAY</span> <br>
+                                         <span>25 Mai - 27 Mai 2021 </span>
+                                          <span>AGRI-Hackathon</span>
+                                        </p>
+                                    </dd>
+                                </dl>
                              </div>
                         </div>
                     </div>
