@@ -222,6 +222,7 @@
                                                     aria-hidden="true"></i></span>
                                             <h3>Security</h3>
                                             <p>Application Audit</p>
+                                            <p>Pentesting </p>
                                         </div>
                                     </div>
                                 </div>
