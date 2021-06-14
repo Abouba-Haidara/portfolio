@@ -326,9 +326,9 @@
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                  <h4>Fariz</h4> 
-                                                 <p>
-                                                   Vivito, it is Searching Roommate plateforme for student.
-                                                 </p>
+                                                 <p> Fariz-IoT WEB Application it is IoT Application to monitoring the
+                                                    farmer activities. it's smart agriculture application.</p>                                                      
+                                            
                                             </div>
                                         </div>
                                     </div>
@@ -339,7 +339,7 @@
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">                                           
                                                   <h4>Fariz IoT</h4>
-                                                   <p> Fariz-IoT WEB And Mobile Application it is IoT Application to monitoring the
+                                                   <p> Fariz-IoT MOBLE Application it is IoT Application to monitoring the
                                                     farmer activities. it's smart agriculture application.</p>                                                      
                                             </div>
                                         </div>
