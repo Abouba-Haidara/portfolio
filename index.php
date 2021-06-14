@@ -325,7 +325,7 @@
                                                 <img src="images/item-2.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                 <h4>Vivito</h4> 
+                                                 <h4>Fariz</h4> 
                                                  <p>
                                                    Vivito, it is Searching Roommate plateforme for student.
                                                  </p>
@@ -392,7 +392,28 @@
                                     <dd>
                                         <p>
                                          <span>Grant Thorton Technologies</span> <br>
-                                         <span>12 Decembre 2019 - now</span>
+                                         <span>12 Decembre 2019 - 16/03/2020 </span><br/>
+                                         <span> Projet de modernisation et d’harmonisation des SI de l’IPRES et de la CSS. (NDAMLI)</span> <br>
+                                        </p>
+                                    </dd>
+                                </dl>
+                                <dl>
+                                    <dt><strong>IT Consultant Internship </strong></dt>
+                                    <dd>
+                                        <p>
+                                         <span>Grant Thorton Technologies</span> <br>
+                                         <span>17 Mars 2020 - Septembre 2020</span>
+                                         <span>Projet de l’implémentation du Core Banking system Orion (FINAO)</span>
+                                        </p>
+                                    </dd>
+                                </dl>
+                                <dl>
+                                    <dt><strong>IT Consultant Internship </strong></dt>
+                                    <dd>
+                                        <p>
+                                         <span>Grant Thorton Technologies</span> <br>
+                                         <span>16 Septembre 2020 - 17/03/2021 </span>
+                                          <span>  Projet de Mise en place d’un système d’information pour l’emploi de jeunes. (ANPEJ)</span>
                                         </p>
                                     </dd>
                                 </dl>
