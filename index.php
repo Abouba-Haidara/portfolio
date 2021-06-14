@@ -402,7 +402,7 @@
                                     <dd>
                                         <p>
                                          <span>Grant Thorton Technologies</span> <br>
-                                         <span>17 Mars 2020 - Septembre 2020</span>
+                                         <span>17 Mars 2020 - Septembre 2020</span><br>
                                          <span>Projet de l’implémentation du Core Banking system Orion (FINAO)</span>
                                         </p>
                                     </dd>
@@ -412,7 +412,7 @@
                                     <dd>
                                         <p>
                                          <span>Grant Thorton Technologies</span> <br>
-                                         <span>16 Septembre 2020 - 17/03/2021 </span>
+                                         <span>16 Septembre 2020 - 17/03/2021 </span><br>
                                           <span>  Projet de Mise en place d’un système d’information pour l’emploi de jeunes. (ANPEJ)</span>
                                         </p>
                                     </dd>
@@ -422,7 +422,7 @@
                                     <dd>
                                         <p>
                                          <span>SOS SAHEL - AFRICADAY</span> <br>
-                                         <span>25 Mai - 27 Mai 2021 </span>
+                                         <span>25 Mai - 27 Mai 2021 </span><br>
                                           <span>AGRI-Hackathon</span>
                                         </p>
                                     </dd>
