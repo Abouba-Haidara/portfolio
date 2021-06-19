@@ -135,7 +135,7 @@
                                                     <div class="counter-box">
                                                         <i class="fa fa-certificate counter-icon"
                                                             aria-hidden="true"></i><span class="count-number">
-                                                            <a href="https://drive.google.com/file/d/1qYPz8jiBRaSpTYCXSaC23noxonxSQv1K/view?usp=sharing"
+                                                            <a href="https://drive.google.com/file/d/1-Gv9KX9iwtZiN1ei6Xu0PtqKBXFb9w8b/view?usp=sharing"
                                                                 target="_blank">View</a>
                                                         </span>
                                                         My Resume
