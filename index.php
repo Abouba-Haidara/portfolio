@@ -120,7 +120,7 @@
                                                 <div class="item animate" data-animate="fadeInUp">
                                                     <div class="counter-box">
                                                         <i class="fa fa-desktop counter-icon"
-                                                            aria-hidden="true"></i><span class="count-number">1+</span>
+                                                            aria-hidden="true"></i><span class="count-number">2+</span>
                                                         Working Years
                                                     </div>
                                                 </div>
