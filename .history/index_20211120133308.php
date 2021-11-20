@@ -313,7 +313,7 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Facebook clone</h4>
                                                 <p>
-                                                   Dans cette application, j'ai utilisée REACTJS ET FIREBASE pour clonner facebook!
+                                                 Dans cette application, j'ai utilisée REACTJS ET FIREBASE pour clonner facebook!
                                                 </p>
                                             </div>
                                         </div>

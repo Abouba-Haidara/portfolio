@@ -308,12 +308,12 @@
                                 <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb box">
-                                                <img src="images/FACEB.png" alt="">
+                                                <img src="images/item-1.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Facebook clone</h4>
                                                 <p>
-                                                   Dans cette application, j'ai utilisée REACTJS ET FIREBASE pour clonner facebook!
+                                                 Dans cette application, j'ai utilisée REACTJS ET FIREBASE pour clonner facebook!
                                                 </p>
                                             </div>
                                         </div>
