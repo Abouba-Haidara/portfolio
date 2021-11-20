@@ -344,7 +344,7 @@
                                                  <p> Fariz-IoT WEB Application it is IoT Application to monitoring the
                                                     farmer activities. it's smart agriculture application.
                                                     Ce projet est un projet memoire de fin d'études.
-                                                      <a target="_blank" style="color: blue;" href="https://fariz-iot.herokuapp.com/">vOIR DEMO</a>
+                                                      <a target="_blank" href="https://fariz-iot.herokuapp.com/">vOIR DEMO</a>
                                                     </p>                                                      
                                             
                                             </div>
@@ -385,8 +385,7 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                            <h4>Covid-19</h4>
                                                 <p>
-                                                   Covid-19 Tracking App using disease sh API With reactJS AND Material-UI, Map
-                                                   <a target="_blank" href="#" >Voir demo</a>
+                                                 Covid-19 Tracking App using disease sh API With reactJS AND Material-UI, Maps
                                                  </p>
                                            </div>
                                         </div>

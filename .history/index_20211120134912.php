@@ -313,7 +313,7 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Facebook clone</h4>
                                                 <p>
-                                                  Un Simple facebook cloe, j'ai utilisée REACTJS ET FIREBASE pour clonner facebook! <a style="color: blue;" target="_blank" href="https://simplefacebookclone.web.app/">VoirnDemo</a>
+                                                  Un Simple facebook cloe, j'ai utilisée REACTJS ET FIREBASE pour clonner facebook! <a sty target="_blank" href="https://simplefacebookclone.web.app/">VoirnDemo</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -342,10 +342,7 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                  <h4>Fariz</h4> 
                                                  <p> Fariz-IoT WEB Application it is IoT Application to monitoring the
-                                                    farmer activities. it's smart agriculture application.
-                                                    Ce projet est un projet memoire de fin d'études.
-                                                      <a target="_blank" style="color: blue;" href="https://fariz-iot.herokuapp.com/">vOIR DEMO</a>
-                                                    </p>                                                      
+                                                    farmer activities. it's smart agriculture application.</p>                                                      
                                             
                                             </div>
                                         </div>
@@ -385,8 +382,7 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                            <h4>Covid-19</h4>
                                                 <p>
-                                                   Covid-19 Tracking App using disease sh API With reactJS AND Material-UI, Map
-                                                   <a target="_blank" href="#" >Voir demo</a>
+                                                 Covid-19 Tracking App using disease sh API With reactJS AND Material-UI, Maps
                                                  </p>
                                            </div>
                                         </div>

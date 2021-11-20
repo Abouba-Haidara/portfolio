@@ -386,7 +386,7 @@
                                            <h4>Covid-19</h4>
                                                 <p>
                                                    Covid-19 Tracking App using disease sh API With reactJS AND Material-UI, Map
-                                                   <a target="_blank" href="#" >Voir demo</a>
+                                                   <a target="" href="#" >Voir demo</a>
                                                  </p>
                                            </div>
                                         </div>
