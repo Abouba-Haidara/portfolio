@@ -308,7 +308,7 @@
                                 <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb box">
-                                                <a target="_blank" href="https://simplefacebookclone.web.app/"><img src="images/FACEB.png" alt=""/></a>
+                                                <a href=""><img src="images/FACEB.png" alt=""/></a>
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Facebook clone</h4>
