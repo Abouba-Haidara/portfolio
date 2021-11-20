@@ -313,7 +313,7 @@
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Facebook clone</h4>
                                                 <p>
-                                                  Un Simple facebook cloe, j'ai utilisée REACTJS ET FIREBASE pour clonner facebook! <a target="_blank" href="https://simplefacebookclone.web.app/">VoirnDemo</a>
+                                                   Dans cette application, j'ai utilisée REACTJS ET FIREBASE pour clonner facebook! <a target="_blank" href="https://simplefacebookclone.web.app/">D</a>
                                                 </p>
                                             </div>
                                         </div>
