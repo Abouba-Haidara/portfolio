@@ -503,7 +503,7 @@
                                         
                                         ?>
 
-                                        <form id="ajax-contact" method="post" action="https://haidara.herokuapp.com/">
+                                        <form id="ajax-contact" method="post" action="https://haidara.herokuapp.com">
                                             <div class="input-field">
                                                 <input type="text" class="form-control" name="name" id="name" required
                                                     placeholder="Name">
