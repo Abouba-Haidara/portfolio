@@ -489,8 +489,21 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6 animate" data-animate="fadeInUp">
-                                        <form id="ajax-contact" method="post" action="#">
+                                    <div class="col-md-6 animate" data-animate="fadeInUp">                                   
+                                        <?php
+                                        require('db.php');
+                                        $db =  new DB();
+                                        $req = "INSERT INTO contact (name, email, message)  values (:name, :email, :message)";
+                                        if( (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['message']) ) && !empty($_POST) ){
+                                            $result = $db->myQuery($req, ['name' => $_POST['name'], 'email' => $_POST['email'], 'message' => $_POST['message']]);
+                                            if($req) {
+                                                echo 'Thanks To contact me!!!';
+                                            }
+                                        }
+                                        
+                                        ?>
+
+                                        <form id="ajax-contact" method="post" action="index.php">
                                             <div class="input-field">
                                                 <input type="text" class="form-control" name="name" id="name" required
                                                     placeholder="Name">
