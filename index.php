@@ -494,6 +494,7 @@
                                         require('db.php');
                                         $db =  new DB();
                                         $req = "INSERT INTO contact (name, email, message)  values (:name, :email, :message)";
+                                        var_dump($_POST);
                                         if( (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['message']) ) && !empty($_POST) ){
                                             $result = $db->myQuery($req, ['name' => $_POST['name'], 'email' => $_POST['email'], 'message' => $_POST['message']]);
                                             if($req) {
