@@ -308,6 +308,19 @@
                                 <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb box">
+                                                <a target="_blank" href="#"><img src="images/0.png" alt=""/></a>
+                                            </div>
+                                            <div class="thumb-inner animate" data-animate="fadeInUp">
+                                                <h4>Comp App Ionic</h4>
+                                                <p>
+                                                  Application des suggestion de produits par magasin,categories, par villes.... <a style="color: blue;" target="_blank" href="https://simplefacebookclone.web.app/">VoirnDemo</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="portfolio-item">
+                                            <div class="thumb box">
                                                 <a target="_blank" href="https://simplefacebookclone.web.app/"><img src="images/FACEB.png" alt=""/></a>
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
