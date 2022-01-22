@@ -491,7 +491,7 @@
                                     </div>
                                     <div class="col-md-6 animate" data-animate="fadeInUp">                                   
                                         <?php
-                                        require('db.php');
+                                       /* require('db.php');
                                         $db =  new DB();
                                         $req = "INSERT INTO contact (name, email, message)  values (:name, :email, :message)";
                                         
@@ -500,7 +500,7 @@
                                             if($req) {
                                                 echo 'Thanks To contact me!!!';
                                             }
-                                        }
+                                        }*/
                                         
                                         ?>
 
