@@ -3,10 +3,10 @@ class DB {
 
     //mysql://bc05699db98289:57857743@eu-cdbr-west-02.cleardb.net/heroku_aa3dba84661b892?reconnect=true
 
-    private  $dbname = "heroku_aa3dba84661b892";
-    private  $hostDB = "eu-cdbr-west-02.cleardb.net";
-    private  $pwdBD = "57857743";
-    private  $userDB = "bc05699db98289";
+    private  $dbname = "";
+    private  $hostDB = "";
+    private  $pwdBD = "";
+    private  $userDB = "";
 
     private $pdo ;
 
